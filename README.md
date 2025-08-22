@@ -9,12 +9,12 @@
 
 <h2>Skills and experience</h2>
 <ul>
-  <li>📖Currently STudying Software Development through CodeSpace coding academy</li>
-  <li>👨🏾‍💻On my way to completion and proficiency in HTML, CSS and Tailwind</li>
+  <li>📖Software Development graduate through CodeSpace coding academy</li>
+  <li>👨🏾‍💻Proficiency in HTML, CSS , Tailwind and well equipped with JavaScript and React.js</li>
   <li>I have utilized my skills gained thus far by developing a number of functional projects which include:<ol>
     <li>A cat HTML portfolio</li>
-    <li>A Pets instagram profile styled using CSS</li>
-    <li>A responsive website footer styled using CSS</li>
+    <li>A Kanban Board task manager utilizing HTML, CSS and JavaScript</li>
+    <li>A responsive and functional React.js Podcast web app</li>
     <li>A responsive website footer styled using Tailwind CSS</li>
   </ol></li>
 </ul>
