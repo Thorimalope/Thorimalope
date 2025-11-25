@@ -4,6 +4,14 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Crafting+Beautiful+and+Responsive+UIs;React+%7C+Javascript+%7C+HTML+%7C+CSS;JS+Enthusiast)](https://git.io/typing-svg)
+
+
+  
+</div>
+
 <h1 align="center">Who is Thori</h1>
 <p>👋 Hey there! I'm a 25-year-old graduate of the University of Pretoria and a qualified  Frontend Software Developer through CodeSpace Academy. My curiosity for technology and problem-solving has grown into a full-fledged passion, and completing the CodeSpace Software Development course has equipped me with the skills to pursue it professionally. I'm excited to keep learning, building, and growing as I navigate the ever-evolving world of software development.</p>
 
