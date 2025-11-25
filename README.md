@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Who is Thori</h1>
-<p>👋 Hey there! I'm a 24-year-old graduate of the University of Pretoria with a deep curiosity for technology and problem-solving. My passion for tech and coding has always been there, but now, through the CodeSpace Software Development course, I'm turning that interest into a career. This is my gateway into the world of software development, and I'm excited to learn, build, and grow in this ever-evolving field.</p>
+<p>👋 Hey there! I'm a 25-year-old graduate of the University of Pretoria and a qualified  Frontend Software Developer through CodeSpace Academy. My curiosity for technology and problem-solving has grown into a full-fledged passion, and completing the CodeSpace Software Development course has equipped me with the skills to pursue it professionally. I'm excited to keep learning, building, and growing as I navigate the ever-evolving world of software development.</p>
 
 <h2>Skills and experience</h2>
 <ul>
